@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x34eC0AB8523D6cEc8CAbB451192DCd0fFd92fBe2",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x34ec0ab8523d6cec8cabb451192dcd0ffd92fbe2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Ball NFT",
+  "SYMBOL": "BNFT",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ball-nft",
+  "SHOW_BACKGROUND": true
+}
